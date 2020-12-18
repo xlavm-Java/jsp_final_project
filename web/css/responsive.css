@@ -1,0 +1,340 @@
+/* --------------------------------------
+=========================================
+RESPONSIVE FIXES
+=========================================
+-----------------------------------------*/
+ 
+
+@media (max-width: 1024px) {
+
+    .animated {
+        -webkit-transform: translateZ(0);
+    }
+
+    
+ 
+    
+    body {
+        font-size: 15px;
+        line-height: 26px;
+    }
+
+    header {
+        background-attachment: scroll;
+        -webkit-background-size: auto 100%;
+                background-size: auto 100%;
+    }
+
+    header .color-overlay {
+        min-height: 700px;
+    }
+
+    .app-brief .left-align {
+        text-align: center;
+    }
+
+    .colored-line-left {
+        float: none;
+        margin: auto;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+ 
+    
+    html {
+        font-size: 90%;
+    }
+
+    header, header .color-overlay {
+        min-height: 840px;
+    }
+
+    .sticky-navigation .navbar-header {
+        width: 100%;
+        position: relative;
+        text-align: center;
+        margin-top: 10px;
+    }
+    .sticky-navigation .navbar-header a {
+        float: none !important;
+    }
+    
+    .sticky-navigation .navbar-header img {
+        max-height: 40px;
+    }
+    
+    .sticky-navigation .main-navigation {
+        text-align: center;
+        width: 100%;
+        padding-top: 0;
+    }
+
+    header .intro-section {
+        padding-top: 30px;
+    }
+    
+    header .phone-image {
+        max-width: 265px;
+        margin-top: 5%;
+    }
+
+    .features .features-left,
+    .features .features-right {
+        margin-top: 0;
+    }
+
+    .features .features-left .icon-container,
+    .features .features-right .icon-container {
+        display: none;
+    }
+}
+
+@media (max-width: 767px) {
+ 
+    
+    html {
+        font-size: 70%;
+    }
+
+    body {
+        font-size: 15px;
+        line-height: 26px;
+    }
+    
+    header, header .color-overlay {
+        min-height: 840px;
+    }
+
+    header .only-logo .navbar {
+        padding: 20px;
+    }
+    
+    .navbar-inverse .navbar-nav {
+        padding-left: 10px;
+        line-height: normal;
+        text-align: center;
+    }
+
+    .navbar-inverse .navbar-nav>li {
+        display: inline-block;
+        margin-bottom: 0;
+    }
+
+    header .intro-section {
+        padding-top: 45px;
+        text-align: center;
+    }
+
+    .home-contents H3 {
+      color:#fff;
+    }
+
+    .features .features-left,
+    .features .features-right {
+        text-align: center;
+        margin-top: 5px;
+    }
+
+    .features .feature {
+        margin-bottom: 70px;
+    }
+
+    .features .features-left .icon-container,
+    .features .features-right .icon-container {
+        float: none;
+        margin-left: inherit;
+        min-height: 70px;
+    }
+
+    .features .feature .icon-container .icon {
+        margin: auto;
+    }
+
+    .download .subscription-form .input-box {
+        margin: auto;
+        width: 80%;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 600px){
+
+    .sticky-navigation .super{
+        position: fixed;
+        height: 30px;
+        background: #4DBC98;
+        top: 0px;
+        left: 0;
+    }
+
+    .super-links > LI > DIV {
+        line-height: 30px;
+        height: 30px;
+    }
+
+     .super-links > LI > DIV > UL {
+        top: 0px;
+    }
+
+     .super-links > LI:last-child > A:hover{
+        background: transparent;
+        color: #e9ffd2;
+    }
+
+
+    .sticky-navigation .super .super-links >  LI + LI {
+        margin-left: 0px;
+    }
+
+    .sticky-navigation .super .super-links LI A, .sticky-navigation .super .super-links > LI > DIV {
+        line-height: 30px;
+        font-size: .9em;
+    }
+
+    .sticky-navigation .super .super-links > LI:last-child A {
+        padding: 0 8px;
+        padding-right: 0;
+        border: none; 
+    }
+
+}
+
+@media (max-width: 480px) {
+ 
+    
+    html {
+        font-size: 65%;
+    }
+
+    header, header .color-overlay {
+        min-height: 790px;
+    }
+
+    header .only-logo .navbar {
+        padding: 10px;
+    }
+
+    header .intro-section {
+        padding-top: 35px;
+    }
+
+    header .intro-section .intro {
+        margin-bottom: 6px;
+    }
+
+    header .intro-section h5 {
+        color: #ffffff;
+    }
+
+    header .intro-section .buttons {
+        margin-top: 15px;
+    }
+
+    .testimonials, 
+    .download { 
+        background-attachment: inherit !important; 
+    }
+    
+    .contact-social > LI {
+        font-size: 1.2em;
+    }
+
+    .download .subscription-form .input-box {
+        width: 95%;
+        height: 50px;
+    }
+
+    .standard-button,
+    .standard-button2 {
+        font-size: 15px;
+        min-width: 100px;
+        padding: 11px 20px 11px 20px;
+    }
+
+    .features .feature:hover .icon-container .icon, 
+    footer .contact-button:hover {
+        -webkit-background-clip: padding-box;
+        -moz-background-clip: padding;
+        background-clip: padding-box;
+    }
+
+    footer .content IMG {
+      margin-top: 5px
+    }
+}
+
+@media (max-width: 320px) {
+ 
+    
+    html {
+        font-size: 60.5%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) and  (orientation: portrait) {
+    header .color-overlay {padding-top: 35px;}
+}
+
+@media (min-width: 768px) and (max-width: 992px) { 
+    .capture-user{
+        padding-top: 20px;
+    }
+    .capture-user .standard-button {
+        margin: 30px 0 0;
+        height: 46px;
+        line-height: 15px;
+    }
+
+    .capture-user label, .capture-user h3 {color: #fff;}
+}
+
+@media (max-width: 991px){
+    .contact-social {
+      float: none;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 640px) and  (orientation: landscape) {
+        
+    .full-screen h1 {
+        font-size: 30px !important;
+        line-height: 40px;
+        margin-top: 0;
+        font-weight: bold;
+    }
+    .full-screen .intro-section .intro {
+       margin-bottom: 0;
+            
+    }
+    
+    .full-screen .intro-section h5 {
+        
+        font-size: 14px;
+    }
+    .full-screen .intro-section .buttons { 
+        margin-top: 0;
+    }
+    
+    .full-screen .standard-button {
+        font-size: 14px;
+        padding: 8px 5px;
+    }
+
+    .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+      border: none !important;
+      background: #F7F8FA;
+    }
+
+}
+
+
+@media (min-width: 768px){
+    .navbar-nav{
+        text-align: center !important;
+    }
+    .navbar-nav>li {
+        display: inline-block !important;
+        float: none;
+     }   
+}

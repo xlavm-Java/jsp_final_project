@@ -1,0 +1,637 @@
+body[data-box=box] {
+	background-color: #00b588;
+}
+
+a {
+	color: #3f7353;
+}
+
+.color_dd_title {
+	color: #3f7353;
+}
+
+
+.btn-default:hover,
+.btn-default:focus,
+.jconfirm.jconfirm-light .jconfirm-box .jconfirm-buttons button.btn-default:hover,
+.jconfirm.jconfirm-light .jconfirm-box .jconfirm-buttons button.btn-default:focus {
+	border: 1px solid #00b588;
+	background-color: #00b588;
+}
+.btn-success {
+	border: 1px solid #00b588;
+	background-color: #00b588;
+}
+
+.btn-success:hover,
+.btn-success:focus {
+	border: 1px solid #00b588;
+	background-color: #00b588;
+}
+
+.btn-success.active,
+.btn-success:active,
+.open > .dropdown-toggle.btn-success,
+.btn-success:active:hover,
+.btn-success.active:hover,
+.open > .dropdown-toggle.btn-success:hover,
+.btn-success:active:focus,
+.btn-success.active:focus,
+.open > .dropdown-toggle.btn-success:focus,
+.btn-success:active.focus,
+.btn-success.active.focus,
+.open > .dropdown-toggle.btn-success.focus {
+	background-color: #00b588;
+	border-color: #00b588;
+}
+
+.btn_big_circle {
+	color: #00b588;
+}
+
+.table tr:hover td .btn_icon {
+	color: #00b588;
+}
+
+/* Tour */
+h3.popover-title {
+	color: #00b588;
+}
+
+.footer_login {
+	background-color: #00b588;
+}
+
+#form-login .footer_login .form-block .btn:hover {
+	color: #00b588;
+}
+
+header .row nav a:hover,
+header .row nav a.active {
+	color: #00b588;
+}
+
+#small_calendar .ui-state-hover,
+#ui-datepicker-div .ui-state-hover {
+	color: #00b588;
+}
+
+.panel-default .panel-heading.color_heading {
+	background-color: #00b588;
+}
+
+.panel-default>.panel-heading .badge {
+	color: #00b588;
+}
+.full_body_online .panel-group .panel {
+	border-color: #00b588;
+}
+
+label.btn-radio.btn-success.active{
+	background-color: #00b588;
+    border-color: #00b588;
+}
+a.active {
+	color: #00b588;
+}
+.color_dd {
+	color: #00b588;
+}
+
+.bg_dd {
+	background-color: #00b588;
+}
+.full_body_online .panel-group {
+	border: 2px solid #00b588;
+}
+/* BOTONES */
+.btn-default.active,
+.btn-default:active,
+.open > .dropdown-toggle.btn-default,
+.btn-default:active:hover,
+.btn-default.active:hover,
+.open > .dropdown-toggle.btn-default:hover,
+.btn-default:active:focus,
+.btn-default.active:focus,
+.open > .dropdown-toggle.btn-default:focus,
+.btn-default:active.focus,
+.btn-default.active.focus,
+.open > .dropdown-toggle.btn-default.focus {
+	color: #3f7353;
+}
+
+.btn-default,
+.jconfirm.jconfirm-light .jconfirm-box .jconfirm-buttons button.btn-default {
+	border: 1px solid #3f7353;
+	background-color: #3f7353;
+}
+
+/* Redisenio tablas */
+.table thead {
+	color: #3f7353;
+}
+
+.modal-header .modal-title {
+	color: #3f7353;
+}
+
+.ajax-file-upload-green {
+	background-color: #3f7353;
+}
+
+.content_left .content_nota .nota_title {
+	color: #3f7353;
+}
+
+.content_left .content_accion .accion_title {
+	color: #3f7353;
+}
+
+#small_calendar .ui-widget-header,
+#ui-datepicker-div .ui-widget-header {
+	color: #3f7353;
+}
+
+#small_calendar .ui-datepicker th,
+#ui-datepicker-div .ui-datepicker th {
+	color: #3f7353;
+}
+
+.content_accion .btn_ver_mas {
+	background-color: #3f7353;
+}
+
+.content_accion .btn_ver_mas .arrow_close {
+	border-bottom: 6px solid #3f7353;
+}
+
+.content_right .sub_menu_tab .panel-heading .collapsed {
+	color: #3f7353;
+}
+
+#small_calendar .ui-widget-header .ui-icon,
+#ui-datepicker-div .ui-widget-header .ui-icon {
+    background-image: url(images/ui-icons_3f7353_256x240.png);
+}
+
+/* Imagenes Iconos General */
+.btn_big_circle .persona_circle {
+	background-image: url(../i/iconos/persona_circle_active.svg);
+}
+
+.btn_big_circle:hover .persona_circle {
+	background-image: url(../i/iconos/persona_circle.svg);
+}
+
+.my_icon_pointer {
+	background-image: url(../i/iconos/pointer.svg);
+}
+
+.my_icon_pointer_active {
+	background-image: url(../i/iconos/pointer_active.svg);
+}
+
+.btn_big_circle .presupuesto_circle {
+	background-image: url(../i/iconos/presupuesto_circle_active.svg);
+}
+
+.btn_big_circle:hover .presupuesto_circle {
+	background-image: url(../i/iconos/presupuesto_circle.svg);
+}
+
+.btn_big_circle .pointer_circle {
+	background-image: url(../i/iconos/pointer_circle_active.svg);
+}
+
+.btn_big_circle:hover .pointer_circle {
+	background-image: url(../i/iconos/pointer_circle.svg);
+}
+
+.my_icon_refresh {
+	background-image: url(../i/iconos/refresh_circle.svg);
+}
+
+.my_icon_star {
+	background-image: url(../i/iconos/star.svg);
+}
+
+.btn_big_circle .star,
+.table tr:hover td a .my_icon_star {
+	background-image: url(../i/iconos/star_active.svg);
+}
+
+.btn_icon:hover .my_icon_star,
+.btn_big_circle:hover .star,
+.table tr td a:hover .my_icon_star {
+	background-image: url(../i/iconos/star_orange.svg);
+}
+
+.my_icon_printer {
+	background-image: url(../i/iconos/printer.svg);
+}
+
+.table tr:hover td a .my_icon_printer {
+	background-image: url(../i/iconos/printer_active.svg);
+}
+
+.btn_icon:hover .my_icon_printer,
+.table tr td a:hover .my_icon_printer {
+	background-image: url(../i/iconos/printer_orange.svg);
+}
+
+.my_icon_correo {
+	background-image: url(../i/iconos/correo.svg);
+}
+
+.table tr:hover td a .my_icon_correo {
+	background-image: url(../i/iconos/correo_active.svg);
+}
+
+.btn_icon:hover .my_icon_correo,
+.table tr td a:hover .my_icon_correo {
+	background-image: url(../i/iconos/correo_orange.svg);
+}
+
+.my_icon_edit {
+	background-image: url(../i/iconos/edit.svg);
+}
+
+.my_icon_edit_red {
+	background-image: url(../i/iconos/edit_red.svg);
+}
+
+.table tr:hover td a .my_icon_edit {
+	background-image: url(../i/iconos/edit_active.svg);
+}
+
+.table tr td a:hover .my_icon_edit {
+	background-image: url(../i/iconos/edit_orange.svg);
+}
+
+.my_icon_delete {
+	background-image: url(../i/iconos/delete.svg);
+}
+
+.table tr:hover td a .my_icon_delete {
+	background-image: url(../i/iconos/delete_active.svg);
+}
+
+.table tr td a:hover .my_icon_delete {
+	background-image: url(../i/iconos/delete_orange.svg);
+}
+
+.my_icon_search {
+	background-image: url(../i/iconos/search.svg);
+}
+
+.table tr:hover td a .my_icon_search {
+	background-image: url(../i/iconos/search_active.svg);
+}
+
+.table tr td a:hover .my_icon_search {
+	background-image: url(../i/iconos/search_orange.svg);
+}
+
+.my_icon_download {
+	background-image: url(../i/iconos/download.svg);
+}
+
+.table tr:hover td a .my_icon_download {
+	background-image: url(../i/iconos/download_active.svg);
+}
+
+.btn_icon:hover .my_icon_download,
+.table tr td a:hover .my_icon_download {
+	background-image: url(../i/iconos/download_orange.svg);
+}
+
+/* Imagenes Iconos Admin */
+.my_icon_diente {
+	background-image: url(../i/iconos/diente.svg);
+}
+
+.table tr:hover td a .my_icon_diente {
+	background-image: url(../i/iconos/diente_active.svg);
+}
+
+.table tr td a:hover .my_icon_diente {
+	background-image: url(../i/iconos/diente_orange.svg);
+}
+
+.my_icon_calendar {
+	background-image: url(../i/iconos/calendar.svg);
+}
+
+.table tr:hover td a .my_icon_calendar {
+	background-image: url(../i/iconos/calendar_active.svg);
+}
+
+.table tr td a:hover .my_icon_calendar {
+	background-image: url(../i/iconos/calendar_orange.svg);
+}
+
+.my_icon_porcentaje {
+	background-image: url(../i/iconos/porcentaje.svg);
+}
+
+.table tr:hover td a .my_icon_porcentaje {
+	background-image: url(../i/iconos/porcentaje_active.svg);
+}
+
+.table tr td a:hover .my_icon_porcentaje {
+	background-image: url(../i/iconos/porcentaje_orange.svg);
+}
+
+.my_icon_activar {
+	background-image: url(../i/iconos/activar.svg);
+}
+
+.table tr:hover td a .my_icon_activar {
+	background-image: url(../i/iconos/activar_active.svg);
+}
+
+.table tr td a:hover .my_icon_activar {
+	background-image: url(../i/iconos/activar_orange.svg);
+}
+
+.my_icon_relacionar {
+	background-image: url(../i/iconos/relacionar.svg);
+}
+
+.my_icon_relacionar_red {
+	background-image: url(../i/iconos/relacionar_red.svg);
+}
+
+.table tr:hover td a .my_icon_relacionar {
+	background-image: url(../i/iconos/relacionar_active.svg);
+}
+
+.table tr td a:hover .my_icon_relacionar {
+	background-image: url(../i/iconos/relacionar_orange.svg);
+}
+
+/* Imagenes Iconos Pacientes */
+.my_icon_ficha {
+	background-image: url(../i/iconos/ficha.svg);
+}
+
+.table tr:hover td a .my_icon_ficha {
+	background-image: url(../i/iconos/ficha_active.svg);
+}
+
+.btn_icon:hover .my_icon_ficha,
+.table tr td a:hover .my_icon_ficha,
+.menu_ficha .btn-link[disabled] .my_icon_ficha {
+	background-image: url(../i/iconos/ficha_orange.svg);
+}
+
+.my_icon_historial {
+	background-image: url(../i/iconos/historial.svg);
+}
+
+.table tr:hover td a .my_icon_historial {
+	background-image: url(../i/iconos/historial_active.svg);
+}
+
+.btn_icon:hover .my_icon_historial,
+.table tr td a:hover .my_icon_historial,
+.menu_ficha .btn-link[disabled] .my_icon_historial {
+	background-image: url(../i/iconos/historial_orange.svg);
+}
+
+.my_icon_presupuestos {
+	background-image: url(../i/iconos/presupuesto.svg);
+}
+
+.table tr:hover td a .my_icon_presupuestos {
+	background-image: url(../i/iconos/presupuesto_active.svg);
+}
+
+.btn_icon:hover .my_icon_presupuestos,
+.table tr td a:hover .my_icon_presupuestos,
+.menu_ficha .btn-link[disabled] .my_icon_presupuestos {
+	background-image: url(../i/iconos/presupuesto_orange.svg);
+}
+
+.my_icon_pagos {
+	background-image: url(../i/iconos/peso.svg);
+}
+
+.my_icon_pagos.peso_red,
+.table tr:hover td a .my_icon_pagos.peso_red {
+	background-image: url(../i/iconos/peso_red.svg);
+}
+
+.table tr:hover td a .my_icon_pagos {
+	background-image: url(../i/iconos/peso_active.svg);
+}
+
+.btn_icon:hover .my_icon_pagos,
+.table tr td a:hover .my_icon_pagos,
+.menu_ficha .btn-link[disabled] .my_icon_pagos {
+	background-image: url(../i/iconos/peso_orange.svg);
+}
+
+.my_icon_horas {
+	background-image: url(../i/iconos/horas.svg);
+}
+
+.table tr:hover td a .my_icon_horas {
+	background-image: url(../i/iconos/horas_active.svg);
+}
+
+.btn_icon:hover .my_icon_horas,
+.table tr td a:hover .my_icon_horas,
+.menu_ficha .btn-link[disabled] .my_icon_horas {
+	background-image: url(../i/iconos/horas_orange.svg);
+}
+
+/* Imagenes Iconos Agenda */
+.my_icon_arrow_down {
+	background-image: url(../i/iconos/arrow_down_active.svg);
+}
+
+.my_icon_nota {
+	margin-right: 3px;
+	background-image: url(../i/iconos/nota.svg);
+}
+
+.btn_icon:hover .my_icon_nota {
+	background-image: url(../i/iconos/nota_orange.svg);
+}
+
+/* Imagenes Iconos Estados Agenda */
+.my_icon_agendado {
+	background-image: url(../i/estados/agendado.svg);
+}
+
+.my_icon_agendado_active,
+.menu_estados a:hover .my_icon_agendado {
+	background-image: url(../i/estados/agendado_active.svg);
+}
+
+.my_icon_arroba {
+	background-image: url(../i/estados/arroba.svg);
+}
+
+.my_icon_arroba_active,
+.menu_estados a:hover .my_icon_arroba {
+	background-image: url(../i/estados/arroba_active.svg);
+}
+
+.my_icon_arroba_cancel {
+	background-image: url(../i/estados/arroba_cancel.svg);
+}
+
+.my_icon_arroba_cancel_active,
+.menu_estados a:hover .my_icon_arroba_cancel {
+	background-image: url(../i/estados/arroba_cancel_active.svg);
+}
+
+.my_icon_atendido {
+	background-image: url(../i/estados/atendido.svg);
+}
+
+.my_icon_atendido_active,
+.menu_estados a:hover .my_icon_atendido {
+	background-image: url(../i/estados/atendido_active.svg);
+}
+
+.my_icon_box {
+	background-image: url(../i/estados/box.svg);
+}
+
+.my_icon_box_active,
+.menu_estados a:hover .my_icon_box {
+	background-image: url(../i/estados/box_active.svg);
+}
+
+.my_icon_cancelar {
+	background-image: url(../i/estados/cancelar.svg);
+}
+
+.my_icon_cancelar_active,
+.menu_estados a:hover .my_icon_cancelar {
+	background-image: url(../i/estados/cancelar_active.svg);
+}
+
+.my_icon_cancelar_rojo {
+	background-image: url(../i/estados/cancelar_rojo.svg);
+}
+
+.my_icon_cancelar_rojo_active,
+.menu_estados a:hover .my_icon_cancelar_rojo {
+	background-image: url(../i/estados/cancelar_rojo_active.svg);
+}
+
+.my_icon_falto_sin_aviso {
+	background-image: url(../i/estados/falto_sin_aviso.svg);
+}
+
+.my_icon_falto_sin_aviso_active,
+.menu_estados a:hover .my_icon_falto_sin_aviso {
+	background-image: url(../i/estados/falto_sin_aviso_active.svg);
+}
+
+.my_icon_falto_sin_aviso_rojo {
+	background-image: url(../i/estados/falto_sin_aviso_rojo.svg);
+}
+
+.my_icon_falto_sin_aviso_rojo_active,
+.menu_estados a:hover .my_icon_falto_sin_aviso_rojo {
+	background-image: url(../i/estados/falto_sin_aviso_rojo_active.svg);
+}
+
+.my_icon_otros {
+	background-image: url(../i/estados/otros.svg);
+}
+
+.my_icon_otros_active,
+.menu_estados a:hover .my_icon_otros {
+	background-image: url(../i/estados/otros_active.svg);
+}
+
+.my_icon_reloj {
+	background-image: url(../i/estados/reloj.svg);
+}
+
+.my_icon_reloj_active,
+.menu_estados a:hover .my_icon_reloj {
+	background-image: url(../i/estados/reloj_active.svg);
+}
+
+.my_icon_reloj_rojo {
+	background-image: url(../i/estados/reloj_rojo.svg);
+}
+
+.my_icon_reloj_rojo_active,
+.menu_estados a:hover .my_icon_reloj_rojo {
+	background-image: url(../i/estados/reloj_rojo_active.svg);
+}
+
+.my_icon_sala_de_espera {
+	background-image: url(../i/estados/sala_de_espera.svg);
+}
+
+.my_icon_sala_de_espera_active,
+.menu_estados a:hover .my_icon_sala_de_espera {
+	background-image: url(../i/estados/sala_de_espera_active.svg);
+}
+
+.my_icon_sala_de_espera_black {
+	background-image: url(../i/estados/sala_de_espera_black.svg);
+}
+
+.my_icon_sala_de_espera_black_active,
+.menu_estados a:hover .my_icon_sala_de_espera_black {
+	background-image: url(../i/estados/sala_de_espera_black_active.svg);
+}
+
+.my_icon_sobre {
+	background-image: url(../i/estados/sobre.svg);
+}
+
+.my_icon_sobre_active,
+.menu_estados a:hover .my_icon_sobre {
+	background-image: url(../i/estados/sobre_active.svg);
+}
+
+.my_icon_telefono {
+	background-image: url(../i/estados/telefono.svg);
+}
+
+.my_icon_telefono_active,
+.menu_estados a:hover .my_icon_telefono {
+	background-image: url(../i/estados/telefono_active.svg);
+}
+
+.my_icon_telefono_rojo {
+	background-image: url(../i/estados/telefono_rojo.svg);
+}
+
+.my_icon_telefono_rojo_active,
+.menu_estados a:hover .my_icon_telefono_rojo {
+	background-image: url(../i/estados/telefono_rojo_active.svg);
+}
+
+.my_icon_phone {
+	background-image: url(../i/estados/phone.svg);
+}
+
+.my_icon_phone_active,
+.menu_estados a:hover .my_icon_phone {
+	background-image: url(../i/estados/phone_active.svg);
+}
+
+.my_icon_phone_red {
+	background-image: url(../i/estados/phone_red.svg);
+}
+
+.my_icon_phone_red_active,
+.menu_estados a:hover .my_icon_phone_red {
+	background-image: url(../i/estados/phone_red_active.svg);
+}
+
+.fc .fc-agendaReload-button {
+	background-image: url(../i/iconos/refresh.svg);
+}
